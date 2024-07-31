@@ -1,0 +1,10 @@
+mongo bd account credentials:
+pass:GayGUDgRtKSHiIDa
+username:snehalp1412
+
+farm cuisine
+- the website doesnt share any api key or url of a database as there is a environment variable file present that is .env file.
+- password will not be shared while my website is being attacked as those are hashed
+- used json web token to keep app secure
+- added tokenization system for the login user for extra security
+- there are 2 middleware 1st is token and 2nd is for admin
